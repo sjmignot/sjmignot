@@ -2,7 +2,7 @@
 
 I'm Samuel Mignot, a coder, data scientist & writer. 
 
-I'm currently working on a couple small ML projects, learning rust, creating data visualizations for text, [a collaborative artist book](arisebyanyotherna.me), and redesigning my website
+I'm currently working on a couple small ML projects, learning rust, creating data visualizations for text, [a collaborative artist book](https://arisebyanyotherna.me), and redesigning my website
 
 #### words that have informed me
 
