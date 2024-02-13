@@ -1,6 +1,6 @@
 ﻿### Hello 
 
-I'm Samuel Mignot, a coder, data scientist & writer. 
+I'm Samuel Mignot, a coder, data scientist & writer. I'm interested in the connection points between language, code, data, and art.
 
 I'm currently working on a couple small ML projects, learning rust, creating data visualizations for text, [a collaborative artist book](https://arisebyanyotherna.me), and redesigning my website
 
